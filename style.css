@@ -3,3 +3,14 @@ body {
   height: 100%;
   margin: 0;
 }
+section{
+  margin: auto;
+  margin-left: 200px;
+}
+
+h1 {
+  margin-left: 550px;
+}
+a{
+  margin-left: 450px;
+}
